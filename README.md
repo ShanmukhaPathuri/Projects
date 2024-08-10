@@ -3,16 +3,16 @@ Thyroid Classification Using SAS & Tableau Project 🩺🔍
 Welcome to my GitHub! I'm Shanmukha Venkata Sai Kiran Pathuri, and this repository showcases one of my key projects - Thyroid Classification Using Machine Learning. This project aims to accurately classify thyroid diseases using SAS for machine learning and Tableau for visualization.
 
 📝 Project Overview
-Introduction
+Introduction: 
 Thyroid diseases are disorders that affect the thyroid gland, with two major categories: hypothyroidism and hyperthyroidism. In this project, I developed a machine learning model to classify thyroid conditions accurately, aiding in early diagnosis and better treatment outcomes.
 
-Problem Statement
+Problem Statement: 
 By analyzing patient data like medical history and blood tests, machine learning can be leveraged to diagnose thyroid conditions more accurately. The primary goal is to create a model that can classify thyroid diseases into four categories: hyperthyroid, hypothyroidism, and negative.
 
-Project Aim
+Project Aim: 
 The project uses machine learning techniques with SAS for data processing and visualization via Tableau. The aim is to accurately classify thyroid diseases and provide insights that help healthcare professionals make informed decisions.
 
-🛠️ Tools and Technologies
+🛠️ Tools and Technologies 
 Programming Languages: SAS, Tableau
 Machine Learning Techniques: Decision Trees, Logistic Regression
 Visualization: Tableau
