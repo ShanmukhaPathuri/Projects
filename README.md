@@ -1,4 +1,5 @@
-Thyroid Classification Project 🩺🔍
+Thyroid Classification Using SAS & Tableau Project 🩺🔍
+
 Welcome to my GitHub! I'm Shanmukha Venkata Sai Kiran Pathuri, and this repository showcases one of my key projects - Thyroid Classification Using Machine Learning. This project aims to accurately classify thyroid diseases using SAS for machine learning and Tableau for visualization.
 
 📝 Project Overview
