@@ -18,16 +18,19 @@ Machine Learning Techniques: Decision Trees, Logistic Regression
 Visualization: Tableau
 
 🧠 Methodology
+
 Data Collection and Preprocessing: 
 The dataset used includes 9172 observations with attributes like age, gender, and thyroid-specific tests.
 Missing data was imputed using median values.
 Data was reduced by removing insignificant columns, ensuring only relevant features were used for modeling.
 
 Modeling:
+
 Decision Tree: Multiple decision trees with varying depths and branches were trained to optimize classification accuracy.
 Logistic Regression: Applied forward logistic regression, though decision trees outperformed this model in terms of accuracy.
 
 Evaluation:
+
 The models were evaluated based on misclassification rates, with the decision tree achieving the best performance with a minimum misclassification rate.
 
 📊 Key Findings
