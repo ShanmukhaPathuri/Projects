@@ -34,11 +34,13 @@ Evaluation:
 The models were evaluated based on misclassification rates, with the decision tree achieving the best performance with a minimum misclassification rate.
 
 📊 Key Findings
+
 Significant Variables: TSH, TT4, FTI, and T3 were identified as the most crucial variables for thyroid classification.
 Model Performance: Decision trees provided better accuracy compared to logistic regression, highlighting the importance of tree-based models for this problem.
 Visualization Insights: Most patients belong to the "concurrent non-thyroidal illness" category, with older patients showing a higher prevalence of certain thyroid conditions.
 
 🚀 Future Work
+
 Improving Model Accuracy: Implementing neural networks could enhance the classification accuracy further.
 Data Expansion: Including more male patients and balancing the dataset for better generalization.
 Boosting Techniques: Applying boosting methods to improve model performance beyond logistic regression.
