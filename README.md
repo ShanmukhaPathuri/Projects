@@ -13,6 +13,7 @@ Project Aim:
 The project uses machine learning techniques with SAS for data processing and visualization via Tableau. The aim is to accurately classify thyroid diseases and provide insights that help healthcare professionals make informed decisions.
 
 🛠️ Tools and Technologies 
+
 Programming Languages: SAS, Tableau
 Machine Learning Techniques: Decision Trees, Logistic Regression
 Visualization: Tableau
@@ -46,5 +47,6 @@ Data Expansion: Including more male patients and balancing the dataset for bette
 Boosting Techniques: Applying boosting methods to improve model performance beyond logistic regression.
 
 🏆 Lessons Learned
+
 The critical role of data preprocessing and feature selection in building effective machine learning models.
 The importance of model evaluation to avoid overfitting, especially in decision trees.
